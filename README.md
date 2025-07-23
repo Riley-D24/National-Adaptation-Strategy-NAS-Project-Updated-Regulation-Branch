@@ -33,7 +33,7 @@ Key transboundary systems include:
 - Yukon River Basin
 - Mackenzie River Basin
 
-![Canada Transboundary Basins](figures/canada_basins_map.png)  
+![Canada Transboundary Basins](picture1.png)  
 *Figure 1: Canada's river basins and transboundary systems*
 
 ---
