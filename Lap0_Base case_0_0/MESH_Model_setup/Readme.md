@@ -4,16 +4,6 @@
 
 This lap includes a large-scale hydrological model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
 
-### Metadata
-
-A complete metadata document is available to describe:
-- Model configurations
-- Input datasets and sources
-- Output variables
-- File structures and processing details
-
----
-
 ## Data Description
 
 ### Forcing Data
