@@ -30,7 +30,7 @@ The model uses 7 key climate forcing variables from the **Canadian Surface Reana
 
 ### Geospatial Datasets
 
-- **MERIT Hydro** – Terrain and river network data *(please cite appropriately)*
+- **MERIT Hydro** – Terrain and river network data 
 - **Landsat NALCMS 2022** – Land cover data from the North American Land Change Monitoring System
 - **Global Soil Dataset for Earth System Models (GSDE)** – Soil property data [(Shangguan et al., 2014)](https://doi.org/10.5194/gmd-7-947-2014)
 
