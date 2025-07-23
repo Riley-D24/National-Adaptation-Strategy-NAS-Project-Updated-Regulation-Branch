@@ -1,6 +1,6 @@
 # National Adaptation Strategy (NAS) Project – MESH Model Setup
 
-## 🧪 Model Cases
+## Model Cases
 
 - **Lap0_Base case_0_0**: Run with uncalibrated parameters  
 - **Lap0_Base case_0_01**: GRU parameterization  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objective and Scope
+## Objective and Scope
 
 The objective of this project is to generate accurate, regional-scale projections of hydroclimate variables under various climate change scenarios.
 
@@ -23,7 +23,7 @@ This covers:
 
 ---
 
-## 🌎 Study Domain and Dataset
+## Study Domain and Dataset
 
 The study domain encompasses all of Canada’s river basins, including **Transboundary River Basins (CanTrans)** that span the Canada–United States border.
 
@@ -33,10 +33,10 @@ Key transboundary systems include:
 - Yukon River Basin
 - Mackenzie River Basin
 
-![Canada Transboundary Basins](images/picture1.png)  
+![Canada Transboundary Basins](images/Picture1.png)  
 *Figure 1: Canada's river basins and transboundary systems*
 
 ---
 
-## 📂 Repository Structure
+
 
