@@ -2,7 +2,8 @@ Model setup for Entire Canada and Transboundary Basin
 
 Metadata document
 
-Outputs: Located in the local workstation K:\NAS_Project\NAS_Model_Runs\MESH_Run_0p0\OBASINAVG and can be provided on request
+Forcing : Located in the local workstation K:\NAS_Project\NAS_Model_Runs\Lap0_Basecase_0_0\MESH_input_CanTrans_CaSRv2p1_1980_2018.nc (around 527 GB)
+Outputs: Located in the local workstation K:\NAS_Project\NAS_Model_Runs\Lap0_Basecase_0_0\OBASINAVG (around 4 GB) and can be provided on request
 
 
 Lap- 	Lap 0
