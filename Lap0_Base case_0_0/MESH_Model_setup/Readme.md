@@ -2,7 +2,7 @@
 
 ## Model Setup and Metadata
 
-This lap includes a large-scale hydrological model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
+This lap includes a large-scale MESH model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
 
 ## Data Description
 
