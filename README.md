@@ -1,16 +1,42 @@
-# National-Adaptation-Strategy-NAS-Project
+# National Adaptation Strategy (NAS) Project – MESH Model Setup
 
-Repository for the NAS project model set up along with its metadata
+## 🧪 Model Cases
 
-Lap0_Base case_0_0 : Run with uncalibrated paramters
-Lap0_Base case_0_01 : GRU parameterization
-Lap0_Base case_0_02 : Distributed parameterization
+- **Lap0_Base case_0_0**: Run with uncalibrated parameters  
+- **Lap0_Base case_0_01**: GRU parameterization  
+- **Lap0_Base case_0_02**: Distributed parameterization  
 
-Objective and Scope
-The objective of this project is to generate accurate, regional-scale projections of hydroclimate variables under various climate change scenarios. The preliminary MESH run offers provides valuable insights into the current hydrological conditions across Canada’s transboundary basins, focusing on simulating surface water processes, including streamflow and evapotranspiration. This report covers the initial setup and execution of the MESH model using historical climate data, followed by a preliminary analysis of the model’s output. It also examines the implications for streamflow prediction and water management within Canada’s transboundary basins. 
+---
 
-Study domain and dataset 
-The study domain covers the whole of encompasses all of Canada’s river basins, including  and its Transboundary River Basin (CanTrans) that extend across national boundaries, particularly those shared between Canada and the United States. This domain focuses on the geographical and hydrological characteristics of these shared river basins. that span across national boundaries, particularly those shared between Canada and United States. Figure 1 shows the Canada’s river basins, highlighting ian and its transboundary river basins, including key transboundary river systems like the Columbia River, Yukon River Basin, and the Mackenzie River Basin.
-A map of the world
+## 🎯 Objective and Scope
 
-Description automatically generated
+The objective of this project is to generate accurate, regional-scale projections of hydroclimate variables under various climate change scenarios.
+
+This preliminary MESH run offers valuable insights into current hydrological conditions across Canada’s transboundary basins, focusing on simulating surface water processes, including:
+
+- Streamflow
+- Evapotranspiration
+
+This covers:
+- Initial setup and execution of the MESH model using historical climate data
+- Model setup metadata and output
+
+---
+
+## 🌎 Study Domain and Dataset
+
+The study domain encompasses all of Canada’s river basins, including **Transboundary River Basins (CanTrans)** that span the Canada–United States border.
+
+Key transboundary systems include:
+
+- Columbia River Basin
+- Yukon River Basin
+- Mackenzie River Basin
+
+![Canada Transboundary Basins](figures/canada_basins_map.png)  
+*Figure 1: Canada's river basins and transboundary systems*
+
+---
+
+## 📂 Repository Structure
+
