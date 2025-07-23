@@ -1,6 +1,9 @@
-Model steup for Entire Canada and Transboundary Basin
+Model setup for Entire Canada and Transboundary Basin
 
 Metadata document
+
+Outputs: Located in the local workstation K:\NAS_Project\NAS_Model_Runs\MESH_Run_0p0\OBASINAVG and can be provided on request
+
 
 Lap- 	Lap 0
 Theme- Base case 0
