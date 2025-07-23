@@ -2,7 +2,7 @@
 
 ## Model Setup and Metadata
 
-This project includes a large-scale hydrological model setup for **all of Canada**, with a focus on **transboundary river basins** shared between Canada and the United States.
+This lap includes a large-scale hydrological model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
 
 ### Metadata
 
