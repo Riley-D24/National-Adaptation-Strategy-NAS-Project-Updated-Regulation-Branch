@@ -3,7 +3,7 @@
 ---
 ## National Adaptation Strategy (NAS) – Hydrological Modeling
 
-This repository contains the initial hydrological modeling setup, metadata and results for the National Adaptation Strategy (NAS) project led by Environment and Climate Change Canada (ECCC). The project aims to support climate resilience by generating large-scale hydroclimate data and modeling future water availability across Canada's transboundary river basins using the MESH hydrological model.
+This repository contains the initial hydrological modeling setup and metadata for the National Adaptation Strategy (NAS) project led by Environment and Climate Change Canada (ECCC). The project aims to support climate resilience by generating large-scale hydroclimate data and modeling future water availability across Canada's transboundary river basins using the MESH hydrological model.
 
 Key preliminary outputs include historical simulations of streamflow, evapotranspiration, soil moisture, and snow water equivalent. These results form the foundation for assessing future climate change impacts on water resources in Canada’s transboundary basins.
 
