@@ -3,7 +3,7 @@
 
 ## Model Setup and Metadata
 
-This lap includes a large-scale MESH model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
+This lap includes a MESH model setup for CamelSpat Basin
 
 This is out of the box run with the default parameters for CLASS.ini and Hydrology.ini based on previous study.
 
@@ -31,12 +31,13 @@ The model uses 7 key climate forcing variables from the **Canadian Surface Reana
 ## Data Storage and Access
 
 ### Forcing File
-Stored locally (not hosted on GitHub due to size): K:\NAS_Project\NAS_Model_Runs\Lap0_Basecase_0_0\MESH_input_CanTrans_CaSRv2p1_1980_2018.nc
-Size: ~527 GB
+Stored locally (not hosted on GitHub due to size)
+Size: XXX GB
 
 ### Model Output
-Stored locally (not hosted on GitHub due to size) K:\NAS_Project\NAS_Model_Runs\Lap0_Basecase_0_0\OBASINAVG
-Size: ~4 GB
-Model outputs can be provided upon request. Please contact the project team for access.
+Stored locally (not hosted on GitHub due to size) 
+Size: XXX GB
+
+Forcing dataset and Model outputs can be provided upon request. Please contact the project team for access.
 
 ---
