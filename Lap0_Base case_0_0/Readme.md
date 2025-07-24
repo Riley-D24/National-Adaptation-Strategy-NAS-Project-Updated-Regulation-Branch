@@ -5,6 +5,8 @@
 
 This lap includes a large-scale MESH model setup for **all of Canada** and **transboundary river basins** shared between Canada and the United States.
 
+This is out of the box run with the default parameters for CLASS.ini and Hydrology.ini based on previous study.
+
 ## Data Description
 
 ### Forcing Data
@@ -23,7 +25,6 @@ The model uses 7 key climate forcing variables from the **Canadian Surface Reana
 
 - **MERIT Hydro** – Terrain and river network data 
 - **Landsat NALCMS 2022** – Land cover data from the North American Land Change Monitoring System
-- **Global Soil Dataset for Earth System Models (GSDE)** – Soil property data [(Shangguan et al., 2014)](https://doi.org/10.5194/gmd-7-947-2014)
 
 ---
 
