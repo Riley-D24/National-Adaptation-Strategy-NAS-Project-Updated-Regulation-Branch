@@ -8,7 +8,7 @@ This repository contains the initial hydrological modeling setup and metadata fo
 Key preliminary outputs include historical simulations of streamflow, evapotranspiration, soil moisture, and snow water equivalent. These results form the foundation for assessing future climate change impacts on water resources in Canada’s transboundary basins.
 
 
-## Objective and Scope
+## Project objective and Scope
 
 The objective of this project is to generate accurate, regional-scale projections of hydroclimate variables under various climate change scenarios. Using the MESH hydrological model, the initial phase simulates surface water processes such as streamflow and evapotranspiration across Canada’s transboundary basins.
 
