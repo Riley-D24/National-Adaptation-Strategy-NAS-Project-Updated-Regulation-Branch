@@ -12,7 +12,6 @@ Key preliminary outputs include historical simulations of streamflow, evapotrans
 
 The objective of this project is to generate accurate, regional-scale projections of hydroclimate variables under various climate change scenarios. Using the MESH hydrological model, the initial phase simulates surface water processes such as streamflow and evapotranspiration across Canada’s transboundary basins.
 
-This repository includes the initial model setup using historical climate data and presents preliminary outputs to support assessments of streamflow prediction.
 
 ---
 
