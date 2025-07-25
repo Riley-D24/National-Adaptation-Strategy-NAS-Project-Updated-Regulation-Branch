@@ -35,10 +35,12 @@ The domain reflects the geographical and hydrological diversity of Canada's rive
 
 This repository includes multiple configurations (based on the Model run configuration sequencing strategy) of the MESH hydrological model as part of the initial NAS project analysis:
 
-- **Lap0_Base_case_0_0** – Uncalibrated parameters (baseline)
-- **Lap0_Base_case_0_01** – GRU-based parameterization
-- **Lap0_Base_case_0_02** – Distributed parameterization
-
+- **Lap0_Base_case_0_0** – Uncalibrated parameters (baseline)- Default parameters - All of Canada and Transboundary Basins
+- **Lap0_Base_case_0_01** – Uncalibrated parameters (baseline) - Default parameters -CamelSpat Basin 
+- **Lap0_Base_case_0_02** – Uncalibrated parameters (baseline) - Default parameters -Camel Spat Basin
+- **Lap0_Base_case_0_03** – Uncalibrated parameters (baseline) -GRU parameterization - All of Canada and Transboundary Basin
+- **Lap0_Base_case_0_04** – Uncalibrated parameters (baseline) - Distributed parameterization - All of Canada and Transboundary Basin
+  
 Each case includes:
 - Configuration files for MESH
 - Metadata file
